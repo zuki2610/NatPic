@@ -1,6 +1,7 @@
 {
   "homepage": "https://zuki2610.github.io/NatPic/",
   "name": "natpic",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "keywords": [],
