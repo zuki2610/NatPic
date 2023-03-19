@@ -5,7 +5,7 @@
 
 npm install	requerido para ver los cambios locales </br>
 npm run dev	abre el puerto para visualizar la web </br>
-link to web:
+link to web:https://zuki2610.github.io/
 </p>
 
 ![image](https://user-images.githubusercontent.com/110415057/226151132-1641faf9-7801-4a4e-b910-d86a4a636423.png)
