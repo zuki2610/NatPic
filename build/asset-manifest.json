@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NatPic/static/css/main.2e05d19a.chunk.css",
-    "main.js": "/NatPic/static/js/main.006d8b8e.chunk.js",
-    "main.js.map": "/NatPic/static/js/main.006d8b8e.chunk.js.map",
+    "main.js": "/NatPic/static/js/main.8122132e.chunk.js",
+    "main.js.map": "/NatPic/static/js/main.8122132e.chunk.js.map",
     "runtime-main.js": "/NatPic/static/js/runtime-main.1e757f7c.js",
     "runtime-main.js.map": "/NatPic/static/js/runtime-main.1e757f7c.js.map",
     "static/js/2.2966d899.chunk.js": "/NatPic/static/js/2.2966d899.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1e757f7c.js",
     "static/js/2.2966d899.chunk.js",
     "static/css/main.2e05d19a.chunk.css",
-    "static/js/main.006d8b8e.chunk.js"
+    "static/js/main.8122132e.chunk.js"
   ]
 }

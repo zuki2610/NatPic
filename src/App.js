@@ -29,11 +29,12 @@ export default function App() {
   return (
     <div className="App">
       <MyContext.Provider value = {globalState}>
-        <BrowserRouter baename="natpic">
+        <BrowserRouter>
           <Navbar />
           <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route path="/favoritos" element={<Favoritos />} />
+            <Route exact path='/NatPic' element={<Home />} />
+            <Route path="/NatPic/favoritos" element={<Favoritos />} />
+            <Route path='/' element={<Home />} />
           </Routes>
         </BrowserRouter>
       </MyContext.Provider>
