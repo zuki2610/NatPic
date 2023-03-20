@@ -4,7 +4,7 @@
 <p> Instalacion 
 
 npm install	requerido para ver los cambios locales </br>
-npm run dev	abre el puerto para visualizar la web </br>
+npm run start	abre el puerto para visualizar la web </br>
 link to web: https://zuki2610.github.io/NatPic/
 </p>
 
